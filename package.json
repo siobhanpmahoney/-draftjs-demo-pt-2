@@ -1,0 +1,30 @@
+{
+	"name": "draftjs-demo-pt2-blog",
+	"version": "1.0.0",
+	"description": "",
+	"keywords": [],
+	"main": "src/index.js",
+	"dependencies": {
+		"@mikeljames/draft-js-drag-n-drop-upload-plugin": "2.0.1",
+		"@willlee-work/draft-js-drag-n-drop-upload-plugin": "2.0.1",
+		"css-loader": "0.28.11",
+		"draft-js": "latest",
+		"draft-js-alignment-plugin": "2.0.3",
+		"draft-js-drag-n-drop-plugin": "2.0.3",
+		"draft-js-focus-plugin": "2.1.0",
+		"draft-js-image-plugin": "2.0.5",
+		"draft-js-plugins-editor": "2.1.1",
+		"draft-js-resizeable-plugin": "2.0.6",
+		"react": "16.3.2",
+		"react-dom": "16.3.2",
+		"react-scripts": "1.1.4",
+		"style-loader": "0.21.0"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"start": "react-scripts start",
+		"build": "react-scripts build",
+		"test": "react-scripts test --env=jsdom",
+		"eject": "react-scripts eject"
+	}
+}
